@@ -1,4 +1,5 @@
 void main() {
+<<<<<<< HEAD
  //   / final
 <<<<<<< HEAD
     final valor1 = "Es un string";
@@ -10,6 +11,8 @@ void main() {
     //var String balance = 20.20;
     //balance = 10,1; 
 =======
+=======
+>>>>>>> b56271f95bc5bd5c038d77e9e71724bb707a56f9
     // final valor1 = "Es un string";
     // final int valor2 = "Es un número";
     // // const
@@ -18,7 +21,10 @@ void main() {
     // // var
     // var String balance = 20.20;
     // balance = 10,1; 
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+>>>>>>> b56271f95bc5bd5c038d77e9e71724bb707a56f9
 }
 //El codigo intenta asignar un string a una variable  int
 //Se  reasignar un valor a una constante,  esta mal
